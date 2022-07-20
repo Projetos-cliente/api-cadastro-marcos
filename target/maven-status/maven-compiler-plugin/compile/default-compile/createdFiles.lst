@@ -1,0 +1,13 @@
+br\com\cruzvita\ApiCadastroApplication.class
+br\com\cruzvita\cadastro\exceptions\IdentificadorInvalidoException.class
+br\com\cruzvita\cadastro\repository\PessoaRepository.class
+br\com\cruzvita\cadastro\validator\PessoaValidator.class
+br\com\cruzvita\cadastro\controller\CadastroController.class
+br\com\cruzvita\cadastro\enums\TipoIdentificador.class
+br\com\cruzvita\cadastro\service\CadastroService.class
+br\com\cruzvita\cadastro\model\Pessoa.class
+br\com\cruzvita\cadastro\dto\PessoaDto$PessoaDtoBuilder.class
+br\com\cruzvita\cadastro\dto\PessoaDto.class
+br\com\cruzvita\cadastro\controller\impl\CadastroControllerImpl.class
+br\com\cruzvita\cadastro\model\Pessoa$PessoaBuilder.class
+br\com\cruzvita\cadastro\swagger\SwaggerConfig.class
